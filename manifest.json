@@ -1,6 +1,6 @@
 {
-    "name": "FL Chart App",
-    "short_name": "FL Chart App",
+    "name": "ws_flutter",
+    "short_name": "ws_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
